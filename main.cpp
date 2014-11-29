@@ -2,7 +2,10 @@
 #include <fstream>
 #include <math.h>
 #include <iostream>
-//Trabajo en grupo realizado con Kevin Lanza
+//Trabajo en grupo realizado con:
+//-Kevin Lanza
+//-Iveth Sabillon
+//-Merary Fernandez
 //Tomadas algunas anotaciones de http://informatica.uv.es/iiguia/AED/oldwww/2004_05/AED.Tema.07.pdf
 using namespace std;
 
